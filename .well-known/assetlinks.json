@@ -3,7 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "protosdnk.applinks.test",
-    "ssha256_cert_fingerprints":
-    ["E0:12:CC:41:5F:27:0E:10:18:C6:11:8A:A4:A3:E9:1A:70:85:1E:DD:B4:88:7D:89:61:70:46:AD:B6:21:81:DB"]
+    "sha256_cert_fingerprints":
+    ["zzzzzzzzzzzE0:12:CC:41:5F:27:0E:10:18:C6:11:8A:A4:A3:E9:1A:70:85:1E:DD:B4:88:7D:89:61:70:46:AD:B6:21:81:DB"]
   }
 }]
